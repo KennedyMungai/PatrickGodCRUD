@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -1793494133,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.Pages.Index",
-        "AssemblyName": "BlazorServerCRUD",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 531436839,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.Pages.Index",
-        "AssemblyName": "BlazorServerCRUD",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServerCRUD.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1908385934,
         "Kind": "Components.Component",
         "Name": "BlazorServerCRUD.Pages.FetchData",
@@ -107,6 +74,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServerCRUD.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1793494133,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.Pages.Index",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 531436839,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.Pages.Index",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerCRUD.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -144,35 +144,35 @@
         }
       },
       {
-        "HashCode": 4281356,
+        "HashCode": 1546275506,
         "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.Pages.VideoGame",
+        "Name": "BlazorServerCRUD.App",
         "AssemblyName": "BlazorServerCRUD",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "VideoGame"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.Pages.VideoGame"
+          "Common.TypeName": "BlazorServerCRUD.App"
         }
       },
       {
-        "HashCode": -702769253,
+        "HashCode": 2036560647,
         "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.Pages.VideoGame",
+        "Name": "BlazorServerCRUD.App",
         "AssemblyName": "BlazorServerCRUD",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorServerCRUD.Pages.VideoGame"
+            "TagName": "BlazorServerCRUD.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.Pages.VideoGame",
+          "Common.TypeName": "BlazorServerCRUD.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -355,39 +355,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServerCRUD.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1546275506,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.App",
-        "AssemblyName": "BlazorServerCRUD",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.App"
-        }
-      },
-      {
-        "HashCode": 2036560647,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.App",
-        "AssemblyName": "BlazorServerCRUD",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServerCRUD.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
