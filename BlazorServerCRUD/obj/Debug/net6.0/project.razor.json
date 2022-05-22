@@ -111,6 +111,59 @@
         }
       },
       {
+        "HashCode": 1671414168,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.Pages.VideoGame",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VideoGame"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int32?",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.Pages.VideoGame"
+        }
+      },
+      {
+        "HashCode": 1841479255,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.Pages.VideoGame",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerCRUD.Pages.VideoGame"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.Int32?",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.Pages.VideoGame",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1610188714,
         "Kind": "Components.Component",
         "Name": "BlazorServerCRUD.Pages.VideoGames",
