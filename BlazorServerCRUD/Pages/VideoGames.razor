@@ -1,0 +1,38 @@
+﻿@page "/VideoGames"
+@inject IGameService GameService
+
+<h3 class="diplay-6 text-center">Video Games</h3>
+<hr>
+
+<table class="table table-striped table-bordered table-hover table-inverse table-responsive">
+    <thead class="thead-inverse|thead-default">
+        <tr>
+            <th>Game</th>
+            <th>Developer</th>
+            <th>Release Date</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var game in GameService.Games)
+            {
+                <tr>
+                    <td scope="row">@game.Name</td>
+                    <td>@game.Developer</td>
+                    <td>@game.Release?.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+</table>
+
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await GameService.LoadGames();
+    }
+}
+
+#pragma warning restore 1998
+#nullable restore
+#line 28 "c:/Users/HannibalBarca/Documents/C# projects/PatrickGodCRUD/BlazorServerCRUD/Pages/VideoGames.razor"
+
