@@ -111,6 +111,39 @@
         }
       },
       {
+        "HashCode": 1610188714,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.Pages.VideoGames",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "VideoGames"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.Pages.VideoGames"
+        }
+      },
+      {
+        "HashCode": 1843053584,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.Pages.VideoGames",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerCRUD.Pages.VideoGames"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.Pages.VideoGames",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1700247048,
         "Kind": "Components.Component",
         "Name": "BlazorServerCRUD.Shared.SurveyPrompt",
@@ -16644,6 +16677,11 @@
     {
       "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\PatrickGodCRUD\\BlazorServerCRUD\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\PatrickGodCRUD\\BlazorServerCRUD\\Pages\\VideoGames.razor",
+      "TargetPath": "Pages\\VideoGames.razor",
       "FileKind": "component"
     },
     {
