@@ -111,39 +111,6 @@
         }
       },
       {
-        "HashCode": 1546275506,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.App",
-        "AssemblyName": "BlazorServerCRUD",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.App"
-        }
-      },
-      {
-        "HashCode": 2036560647,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerCRUD.App",
-        "AssemblyName": "BlazorServerCRUD",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServerCRUD.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerCRUD.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1700247048,
         "Kind": "Components.Component",
         "Name": "BlazorServerCRUD.Shared.SurveyPrompt",
@@ -322,6 +289,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServerCRUD.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1546275506,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.App",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.App"
+        }
+      },
+      {
+        "HashCode": 2036560647,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerCRUD.App",
+        "AssemblyName": "BlazorServerCRUD",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerCRUD.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerCRUD.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
