@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BlazorServerCRUD.Data;
 
-public class GameService
+public class GameService : IGameService
 {
     private readonly DataContext _context;
 
@@ -14,7 +14,7 @@ public class GameService
         _context.Database.EnsureCreated();
     }
 
-    public async Task<List<Game>> LoadGames()
+    public async Task LoadGames()
     {
         Games = await _context.Games.ToListAsync();
     }
